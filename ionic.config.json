@@ -1,5 +1,7 @@
 {
   "name": "huongDanCaiDat",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
